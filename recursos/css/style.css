@@ -9,5 +9,17 @@
 	line-height: 15px;
 	font-size: 30px;
 	font-family: Arial, Helvetica, sans-serif;
-  color:#00A2FF;
+  color:#0E19C5;
+}
+
+.span4,.box_select_cli li{
+	margin-top: 50px;
+	text-decoration: none;
+	line-height: 0px;
+	float: left;
+	
+}
+.box_select_cli li{
+	display: block;
+	padding: 0;
 }
